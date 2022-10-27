@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1666681962,,"wq"
+|2,0,1666876779,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,32 +25,58 @@
 # Registers:
 
 # File marks:
-'0  5  17  ~/server.js
-|4,48,5,17,1666681962,"~/server.js"
-'1  11  10  ~/Dockerfile
-|4,49,11,10,1666681908,"~/Dockerfile"
-'2  3  0  ~/Dockerfile
-|4,50,3,0,1666678379,"~/Dockerfile"
-'3  3  0  ~/Dockerfile
-|4,51,3,0,1666678379,"~/Dockerfile"
-'4  4  0  ~/server.js
-|4,52,4,0,1666678228,"~/server.js"
-'5  4  0  ~/server.js
-|4,53,4,0,1666678228,"~/server.js"
+'0  11  54  ~/server.js
+|4,48,11,54,1666876779,"~/server.js"
+'1  5  17  ~/server.js
+|4,49,5,17,1666681962,"~/server.js"
+'2  5  17  ~/server.js
+|4,50,5,17,1666681962,"~/server.js"
+'3  11  10  ~/Dockerfile
+|4,51,11,10,1666681908,"~/Dockerfile"
+'4  3  0  ~/Dockerfile
+|4,52,3,0,1666678379,"~/Dockerfile"
+'5  3  0  ~/Dockerfile
+|4,53,3,0,1666678379,"~/Dockerfile"
+'6  4  0  ~/server.js
+|4,54,4,0,1666678228,"~/server.js"
+'7  4  0  ~/server.js
+|4,55,4,0,1666678228,"~/server.js"
+'8  4  0  ~/server.js
+|4,56,4,0,1666678228,"~/server.js"
+'9  4  0  ~/server.js
+|4,57,4,0,1666678228,"~/server.js"
 
 # Jumplist (newest first):
+-'  11  54  ~/server.js
+|4,39,11,54,1666876779,"~/server.js"
+-'  5  17  ~/server.js
+|4,39,5,17,1666876729,"~/server.js"
 -'  5  17  ~/server.js
 |4,39,5,17,1666681962,"~/server.js"
+-'  4  0  ~/server.js
+|4,39,4,0,1666681914,"~/server.js"
 -'  4  0  ~/server.js
 |4,39,4,0,1666681914,"~/server.js"
 -'  11  10  ~/Dockerfile
 |4,39,11,10,1666681908,"~/Dockerfile"
 -'  11  10  ~/Dockerfile
 |4,39,11,10,1666681908,"~/Dockerfile"
+-'  11  10  ~/Dockerfile
+|4,39,11,10,1666681908,"~/Dockerfile"
+-'  11  10  ~/Dockerfile
+|4,39,11,10,1666681908,"~/Dockerfile"
 -'  3  0  ~/Dockerfile
 |4,39,3,0,1666681884,"~/Dockerfile"
 -'  3  0  ~/Dockerfile
 |4,39,3,0,1666681884,"~/Dockerfile"
+-'  3  0  ~/Dockerfile
+|4,39,3,0,1666681884,"~/Dockerfile"
+-'  3  0  ~/Dockerfile
+|4,39,3,0,1666681884,"~/Dockerfile"
+-'  3  0  ~/Dockerfile
+|4,39,3,0,1666678379,"~/Dockerfile"
+-'  3  0  ~/Dockerfile
+|4,39,3,0,1666678379,"~/Dockerfile"
 -'  3  0  ~/Dockerfile
 |4,39,3,0,1666678379,"~/Dockerfile"
 -'  3  0  ~/Dockerfile
@@ -63,6 +89,14 @@
 |4,39,1,0,1666678272,"~/Dockerfile"
 -'  1  0  ~/Dockerfile
 |4,39,1,0,1666678272,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1666678272,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1666678272,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1666678272,"~/Dockerfile"
+-'  1  0  ~/Dockerfile
+|4,39,1,0,1666678272,"~/Dockerfile"
 -'  4  0  ~/server.js
 |4,39,4,0,1666678228,"~/server.js"
 -'  4  0  ~/server.js
@@ -71,6 +105,8 @@
 |4,39,4,0,1666678228,"~/server.js"
 -'  4  0  ~/server.js
 |4,39,4,0,1666678228,"~/server.js"
+-'  1  0  ~/server.js
+|4,39,1,0,1666678134,"~/server.js"
 -'  1  0  ~/server.js
 |4,39,1,0,1666678134,"~/server.js"
 -'  1  0  ~/server.js
@@ -85,10 +121,10 @@
 # History of marks within files (newest to oldest):
 
 > ~/server.js
-	*	1666681960	0
-	"	5	17
-	^	5	18
-	.	5	17
+	*	1666876774	0
+	"	11	54
+	^	11	55
+	.	11	54
 	+	15	0
 	+	14	0
 	+	13	0
@@ -102,6 +138,7 @@
 	+	5	0
 	+	4	0
 	+	5	17
+	+	11	54
 
 > ~/Dockerfile
 	*	1666681904	0
